@@ -9,10 +9,10 @@ Este projeto foi desenvolvido como uma atividade avaliativa do curso Técnico de
 ## Capturas de Tela do Projeto
 
 ### Lista dos livros registrados
-![Lista dos Livros registrados]("./screenshots/Lista de Livros.png")
+![Lista dos Livros registrados](./screenshots/Lista%20de%20Livros.png)
 
 ### Formulário de registro/edição
-![Formulário de registro]("./screenshots/Formulário de Livro.png")
+![Formulário de registro](./screenshots/Formulário%20de%20Livro.png)
 
 ## Tecnologia/Framework Utilizados
 - Java
